@@ -89,6 +89,10 @@ teams:
   - ryjones
   members:
   - SeanBohan
+- name: ehr-wallet-maintainers
+  maintainers:
+  - sbhavani
+  - rstellar
 - name: mdl-js-maintainers
   maintainers:
   - lukasjhan
@@ -223,6 +227,9 @@ repositories:
 - name: mdl-js
   teams:
     mdl-js-maintainers: maintain
+- name: ehr-wallet
+  teams:
+    ehr-wallet-maintainers: maintain
 - name: multiformat-vc-ios
   teams:
     multiformat-vc-ios-maintainers: write
